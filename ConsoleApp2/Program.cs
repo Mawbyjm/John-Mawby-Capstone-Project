@@ -3,16 +3,14 @@
 namespace CapstoneProject
 {
     // **************************************************
-    //
-    // Title: Capstone Project - Menu Starter
-    // Description: Calculate the square footage of 
-    //              house and then calculate the cost
-    //              to refloor
+    // Title: The Capstone Project - 2021
+    // Description: This program will calculate the square
+    //              footage of a building and the estimated 
+    //              cost to remodel the flooring.
     // Application Type: Console
     // Author: John Mawby
     // Dated Created: 4/8/2021
-    // Last Modified: 4/10/2020
-    //
+    // Last Modified: 4/17/2020
     // **************************************************
     class Program
     {
